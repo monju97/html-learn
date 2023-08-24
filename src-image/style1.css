@@ -1,0 +1,28 @@
+body{
+    background-color: aquamarine;
+a{
+    font-size: 30px;
+    color: aqua;
+    text-decoration: none;
+}
+img{
+    max-width: 100%;
+}
+table{
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse ;
+    width: fit-content;
+}
+tr,td{
+    border: 2px solid;
+    width: fit-content;
+}
+th{
+    width: fit-content;
+    border: 2px solid;
+}
+#m1{
+   background-color: blueviolet;
+   color: antiquewhite;
+   padding: 20px;
+}

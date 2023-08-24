@@ -1,0 +1,19 @@
+
+
+/* for id decorate use below method,
+day8.html link with this css */
+#mm{
+    background: wheat;
+    color: white;
+    padding: 10px;
+}
+
+
+/* for class decorate use below method */
+.mm{
+    color: blueviolet;
+    padding: 20px;
+    border: 2px solid black;
+    width: 20;
+    
+}
